@@ -1,0 +1,11 @@
+COMPFEST/Library/
+COMPFEST/Temp/
+COMPFEST/Build/
+COMPFEST/obj/
+*.csproj
+*.sln
+*.user
+.DS_Store
+.vscode/
+*.dll
+*.exe
