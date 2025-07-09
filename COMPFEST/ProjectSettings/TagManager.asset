@@ -12,8 +12,8 @@ TagManager:
   - Water
   - UI
   - Wall
-  - 
-  - 
+  - Character
+  - Dialogue
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Chacter
+    uniqueID: 681690245
+    locked: 0
+  - name: Dialogue
+    uniqueID: 985906215
     locked: 0
